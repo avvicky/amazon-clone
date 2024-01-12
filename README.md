@@ -1,6 +1,5 @@
 # Amazon Clone
 
-![Amazon Clone](https://github.com/avvicky/amazon-clone/raw/main/public/amazon-clone.png)
 
 ## Overview
 
